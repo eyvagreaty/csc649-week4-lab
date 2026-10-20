@@ -1,14 +1,14 @@
 # Tech Stack Evaluation
 
 ## Project
-[Name of your Assignment 1 or FYP project, in one line]
+[Cookies Order System]
 
 ## Requirements that drive the decision
 List 3 to 5 requirements from your own docs/requirements.md. Include at
 least 2 non-functional requirements.
-- [FR or NFR number]: [requirement]
-- [FR or NFR number]: [requirement]
-- [FR or NFR number]: [requirement]
+- [FR1]: The system shall enable the Customer and Admin to logon to the system by supplying valid user identification and password.
+- [FR2]: The system shall enable the Customer to select cookies, specify quantity and add items to cart.
+- [FR3]: The system shall enable the Admin to add new cookie products.
 
 ## Options
 - Option A: [for example: static website (HTML and JavaScript) on GitHub Pages]
